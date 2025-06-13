@@ -1,7 +1,7 @@
-div.holder {
+.holder {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: row; /* <-- missing semicolon was here */
+  flex-direction: row;
   justify-content: space-between;
 }
 
@@ -11,3 +11,4 @@ div.holder {
   background: lightblue;
   margin: 10px;
 }
+
