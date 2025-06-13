@@ -1,4 +1,4 @@
-.holder {
+div.holder {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row; /* <-- missing semicolon was here */
